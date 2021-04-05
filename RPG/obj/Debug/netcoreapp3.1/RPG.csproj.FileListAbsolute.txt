@@ -1,0 +1,13 @@
+C:\Users\hhatch1\dev\Week5\RPG\RPG\bin\Debug\netcoreapp3.1\RPG.exe
+C:\Users\hhatch1\dev\Week5\RPG\RPG\bin\Debug\netcoreapp3.1\RPG.deps.json
+C:\Users\hhatch1\dev\Week5\RPG\RPG\bin\Debug\netcoreapp3.1\RPG.runtimeconfig.json
+C:\Users\hhatch1\dev\Week5\RPG\RPG\bin\Debug\netcoreapp3.1\RPG.runtimeconfig.dev.json
+C:\Users\hhatch1\dev\Week5\RPG\RPG\bin\Debug\netcoreapp3.1\RPG.dll
+C:\Users\hhatch1\dev\Week5\RPG\RPG\bin\Debug\netcoreapp3.1\RPG.pdb
+C:\Users\hhatch1\dev\Week5\RPG\RPG\obj\Debug\netcoreapp3.1\RPG.AssemblyInfoInputs.cache
+C:\Users\hhatch1\dev\Week5\RPG\RPG\obj\Debug\netcoreapp3.1\RPG.AssemblyInfo.cs
+C:\Users\hhatch1\dev\Week5\RPG\RPG\obj\Debug\netcoreapp3.1\RPG.csproj.CoreCompileInputs.cache
+C:\Users\hhatch1\dev\Week5\RPG\RPG\obj\Debug\netcoreapp3.1\RPG.dll
+C:\Users\hhatch1\dev\Week5\RPG\RPG\obj\Debug\netcoreapp3.1\RPG.pdb
+C:\Users\hhatch1\dev\Week5\RPG\RPG\obj\Debug\netcoreapp3.1\RPG.genruntimeconfig.cache
+C:\Users\hhatch1\dev\Week5\RPG\RPG\obj\Debug\netcoreapp3.1\RPG.csprojAssemblyReference.cache
